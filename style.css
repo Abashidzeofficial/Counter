@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background: url(/mainBcg.jpeg) fixed no-repeat center/cover;  
+    background: url(mainBcg.jpeg) fixed no-repeat center/cover;  
 }
 .main{
     display: flex;
