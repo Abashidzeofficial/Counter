@@ -3,7 +3,7 @@
 
 ### Links
 
-- Live Site URL: https://abashidzeofficial.github.io/Faq-Accordion-Card/
+- Live Site URL: https://abashidzeofficial.github.io/Counter/
 
 
 ![cou1](https://user-images.githubusercontent.com/114133338/215728210-a9beeefe-2026-4b0a-8904-1cc212e5a94d.jpg)
