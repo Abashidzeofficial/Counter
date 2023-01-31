@@ -1,0 +1,76 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body {
+    background: url(/mainBcg.jpeg) fixed no-repeat center/cover;  
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-top: 250px; 
+}
+.main > img {
+    width: 650px;
+    height: 480px;
+    border-radius: 8px;
+    border: 1px solid rgb(253, 251, 251);
+    box-shadow:  -1px 6px 15px black;
+   
+   
+}
+.counter{
+    display: flex;
+    justify-content: center;
+    margin-top: -400px;
+    font-family: 'Ubuntu', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    color: #FFF;
+    text-transform: uppercase; 
+}
+.numbercount{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    color: #FFF;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 180px;
+    color: rgb(51, 51, 51);  
+}
+.buttons{
+    display: flex;
+    justify-content: center;
+   
+    
+}
+.lower , .add{
+    width: 140px;
+    height: 45px;
+    font-family:'Ubuntu', sans-serif; 
+    font-size: 22px;
+    border-radius: 5px;
+    color: #FFF;
+    background-color: #232324;
+    box-shadow: 1px 1px 30px 1px black;
+    /* margin-left: 40px; */
+    border: none;
+
+
+   
+    
+}
+ .lower:hover , .add:hover{
+    background-color: #17a2b8;
+    
+ }
+.lower{
+    margin-right: 70px;
+}
+
+
+
+ 
